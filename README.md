@@ -2,7 +2,7 @@
 
 
 up:
-aowu:26.0404
+aowu:26.0405
 newwex:26.0326
 xiaohuban:v14.7.6
 
