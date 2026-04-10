@@ -266,6 +266,7 @@
             "changeable": 1,
             "ext": {
                 "site": [
+                    "https://shandian.blog",
                     "https://sd.sduc.site"
                 ]
             },
@@ -428,6 +429,26 @@
             "name": "糖果｜搜索",
             "type": 3,
             "api": "csp_TGSou",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "timeout": 60
+        },
+        {
+            "key": "兄弟",
+            "name": "兄弟｜搜索",
+            "type": 3,
+            "api": "csp_XiongdiPan",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "timeout": 60
+        },
+        {
+            "key": "九七",
+            "name": "九七｜搜索",
+            "type": 3,
+            "api": "csp_97Sou",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
